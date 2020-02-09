@@ -1,4 +1,4 @@
-HOST_NAME=minima
+HOST_NAME=alan
 
 source ~/.nvm/nvm.sh
 nvm use stable
